@@ -8,7 +8,8 @@ During my undergraduate studies, I collaborated with Prof. Pabitra Mitra on a re
 
 ### Dataset
 - Our dataset consisted of 185 million tweets posted between April 1, 2020, and September 30, 2020.
-
+- Here is a link to the dataset: https://drive.google.com/drive/folders/1EUiu5FpYhOclWm8pUQKVUVYy6Nz9KoQD?usp=sharing
+  
 ### Summarization Technique
 - We employed the TextRank algorithm for Extractive Summarization.
 
@@ -21,14 +22,14 @@ During my undergraduate studies, I collaborated with Prof. Pabitra Mitra on a re
 ## Results
 
 - **Time Series Generation**
-  - We created time series data by using the frequency of specific keywords, resulting in data points.
+  - We created time series data by using the frequency of specific keywords, resulting in data points. One could find these time series plots in the PDF of the paper.
 
 - **Graphical Trends**
   - The generated graphs successfully linked trends to major global events, providing insights into the evolving sentiments related to Covid-19. An in depth analysis is provided in the paper uploaded in this repository.
 
 ## Publication
 
-Our research findings were documented in a paper titled **'Time Series Analysis on Covid-19 Summarized Twitter Data Using Modified TextRank'**, which was accepted for presentation at the International Conference on Computational Intelligence in Pattern Recognition (CIPR-2022). The paper has been published in the Springer LNNS Series (Volume 480).
+Our research findings were documented in a paper titled **'Time Series Analysis on Covid-19 Summarized Twitter Data Using Modified TextRank'** (https://link.springer.com/chapter/10.1007/978-981-19-3089-8_2), which was accepted for presentation at the International Conference on Computational Intelligence in Pattern Recognition (CIPR-2022). The paper has been published in the Springer LNNS Series (Volume 480).
 
 ## Conference Presentation
 
