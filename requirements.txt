@@ -1,0 +1,10 @@
+pandas
+nltk
+bs4
+matplotlib
+numpy
+graphviz
+tweepy
+scikit-learn
+unidecode
+networkx
